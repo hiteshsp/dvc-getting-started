@@ -1,0 +1,4 @@
+['remote "myremote"']
+url = C:\Users\hiteshwara.sharma\myremote
+[core]
+remote = myremote
